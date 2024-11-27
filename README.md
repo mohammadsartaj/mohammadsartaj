@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+  Hello! I'm Mohammad Sartaj, a passionate Full-Stack Developer and recent CSE graduate with a strong foundation in web development, full-stack projects, and data-driven solutions.
+🌱 I’m currently expanding my expertise in cloud technologies and modern UI/UX design trends to create impactful and innovative projects.
+💬 Ask me about React.js, Node.js, MySQL, or any of my projects like WEnergy or Pixel-AI!
+⚡ Fun fact: I’ve solved over 300 problems on LeetCode, blending problem-solving skills with hands-on development expertise.
+
+
 
 
 ## 🌐 Socials:
